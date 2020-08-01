@@ -11,7 +11,7 @@ This GitHub profile contains my private projects I did for research and fun. Do 
 
 Check out a game I recently published https://play.google.com/store/apps/details?id=de.traendy.spaceshooter ✌️
 
-Have an nice stay. 😁
+Have a nice stay. 😁
 
 <!--
 **traendy/traendy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
